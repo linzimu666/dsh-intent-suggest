@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-intent-suggest
+      name: 'dsh-intent-suggest'
+      config:
+        enabled: true
+        minChars: 2
